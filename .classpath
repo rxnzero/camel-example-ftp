@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="src" path="target/maven-shared-archive-resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-core/2.18.2/camel-core-2.18.2.jar" sourcepath="M2_REPO/org/apache/camel/camel-core/2.18.2/camel-core-2.18.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-core/2.2.11/jaxb-core-2.2.11.jar" sourcepath="M2_REPO/com/sun/xml/bind/jaxb-core/2.2.11/jaxb-core-2.2.11-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.11/jaxb-impl-2.2.11.jar" sourcepath="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.11/jaxb-impl-2.2.11-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-ftp/2.18.2/camel-ftp-2.18.2.jar" sourcepath="M2_REPO/org/apache/camel/camel-ftp/2.18.2/camel-ftp-2.18.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/jcraft/jsch/0.1.54/jsch-0.1.54.jar" sourcepath="M2_REPO/com/jcraft/jsch/0.1.54/jsch-0.1.54-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-net/commons-net/3.3/commons-net-3.3.jar" sourcepath="M2_REPO/commons-net/commons-net/3.3/commons-net-3.3-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7.jar" sourcepath="M2_REPO/org/apache/logging/log4j/log4j-api/2.7/log4j-api-2.7-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-core/2.7/log4j-core-2.7.jar" sourcepath="M2_REPO/org/apache/logging/log4j/log4j-core/2.7/log4j-core-2.7-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-slf4j-impl/2.7/log4j-slf4j-impl-2.7.jar" sourcepath="M2_REPO/org/apache/logging/log4j/log4j-slf4j-impl/2.7/log4j-slf4j-impl-2.7-sources.jar"/>
+</classpath>
